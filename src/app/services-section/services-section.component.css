@@ -1,0 +1,35 @@
+
+
+.container{
+    margin-top: 100px;
+position: relative;
+z-index: 1;
+}
+
+.myimage1{
+    height: 350px;
+    margin-top: 60px;
+    position: absolute;
+
+}
+.skillicons p{
+    font-size: 38px;
+
+}
+.skillicons{
+    z-index: 1;
+    color: white;
+    margin-left: 65%;
+    margin-top: 60px;
+
+}
+.icons{
+size: 10px;
+font-size: 80px;
+padding-left:  10px;
+letter-spacing: 25px;
+cursor: pointer;
+}
+.points{
+    font-size: 30px;
+}

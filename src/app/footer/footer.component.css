@@ -1,0 +1,26 @@
+body{
+    min-height: 120vh;
+}
+
+
+footer{
+
+    align-items: center;
+    top: 100%;
+    position: sticky;  
+    z-index: 2; 
+
+}
+.btn {
+    z-index: 1;
+}
+.socialicons{
+    font-size: 25px;
+    letter-spacing: 20px;
+    cursor: pointer;
+    
+}
+.socialicons:hover{
+    zoom: 1;
+font-size: 30px;
+}

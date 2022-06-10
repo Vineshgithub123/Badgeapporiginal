@@ -1,0 +1,19 @@
+
+
+.navbar{
+left: 60%;
+margin-top: 40px;
+
+}
+.navbar a{
+    font-size: 25px;
+margin: 2px 25px 20px;
+}
+.navbar a:hover{
+background-color: rgb(125, 63, 63);
+transition: 2s;
+    color: white(91, 86, 26);
+    border-radius: 10px;
+    padding-inline-end: 50px;
+
+}
